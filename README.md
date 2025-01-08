@@ -108,4 +108,3 @@ CREATE TABLE etudiant (
 
 ---
 
-Cela permet de documenter votre projet de manière claire et détaillée.
