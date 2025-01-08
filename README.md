@@ -1,6 +1,6 @@
 
 
-Voici un exemple de contenu que vous pouvez écrire dans le fichier README de votre projet **"Gestion École"** :
+
 
 ---
 
