@@ -28,6 +28,7 @@ gestion_ecole/
     ├── Administrateur.php
     └── Etudiant.php
 
+
 # Configuration de la base de données (.env)
 Serveur=localhost
 Utilisateur=root
